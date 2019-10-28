@@ -1,0 +1,117 @@
+
+body, html{
+    font-family: 'Staatliches', cursive;
+    font-size: 1.5em;
+    padding: 25px 100px;
+    height: 100%;
+    background-image: url("/home/michael/Desktop/l1www/img/aaa.jpg");
+
+    
+}
+.me{
+width: 8em;
+height: auto;
+border-radius: 12px;
+float:left;
+margin-right: 15px;
+clear: bottom;
+}
+#aboutme{
+    text-align:left;
+}
+
+#images{
+    text-align:center;
+    margin:0 5px 0 5px;
+}
+#images2{
+    text-align:center;
+    margin:0 5px 0 5px;
+}
+
+.trylma{
+    height: 15em;
+    width: auto;
+    border-radius: 12px;
+    display: inline-block;
+
+    margin:0 5px 0 5px;
+}
+
+ul { display:table; margin:0 auto;}
+
+.screens{
+    height: 17em;
+    width: auto;
+    border-radius: 12px;
+    clear: bottom; 
+    position: sticky;
+    display: inline-block;
+
+    margin:0 5px 0 5px;
+
+}
+
+header{
+text-align: center;
+font-size: 3em;
+clear:both;
+}
+
+.row {
+    text-align: center;
+    display: flex;
+    font-size: 1.5em;
+  }
+  
+.column {
+    flex: 50%;
+  }
+
+footer{
+    padding-top:3em;
+    border-bottom: 10em;
+    text-align: center;
+    font-size: 1em;
+    color: gray;
+}
+
+article{
+margin-top: 40px;
+text-align:center;
+clear: both;
+}
+
+li{
+    clear:both;
+}
+
+#title {
+    text-align: center;
+    color: black;
+    font-size: 4em;
+}
+#projo{
+    font-size: 6em;
+    text-align: center;
+    
+}
+
+a:link {
+    color: black;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
